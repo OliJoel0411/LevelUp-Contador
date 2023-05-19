@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+  }
+  
+  #contador {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .cero {
+    color: #000;
+  }
+  
+  .positivo {
+    color: green;
+  }
+  
+  .negativo {
+    color: red;
+  }
+  
+  #boton {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
